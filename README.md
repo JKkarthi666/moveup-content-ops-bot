@@ -13,7 +13,7 @@ MoveUp ContentOps AI is an autonomous content intelligence platform designed to 
 
 | Executive Dashboard | AI Insights Report | Competitive Benchmarking |
 | :---: | :---: | :---: |
-| ![Metrics](screenshots/metrics.png) | ![Reports](screenshots/ai_reports.png) | ![Benchmark](screenshots/benchmark.png) |
+| ![Metrics](Screenshot 2026-06-14 010020.png) | ![Reports](screenshots/ai_reports.png) | ![Benchmark](screenshots/benchmark.png) |
 
 ---
 
